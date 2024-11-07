@@ -13,16 +13,20 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
     <h3>Clona el repositorio:</h3>
      <pre>
       <code>
-      git clone <URL_DEL_REPOSITORIO>
-      cd <NOMBRE_DEL_PROYECTO>
+      git clone https://github.com/NelsonValentinGarroDadan/backend-ecommerce.git
+      cd backend-ecommerce
       </code>
      </pre>>
       
   </li>
   <li>
     <h3>Instala las dependencias:</h3>
-    ```bash
-    npm install
+    <pre>
+      <code>
+      npm install
+      </code>
+    </pre>
+    
   </li>
   <li>
     <h3>Crea un archivo de variables de entorno: Crea un archivo .env.development en la raíz del proyecto con las siguientes variables de entorno:</h3>
