@@ -50,8 +50,6 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
         <li>DB_PASSWORD=your_database_password</li>
         </ul>
       </li>
-      
-      
     </ul>
   </li>
 
