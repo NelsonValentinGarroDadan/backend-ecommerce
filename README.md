@@ -77,7 +77,7 @@ Este proyecto utiliza dotenv para cargar las variables de entorno en los diferen
 ## Ejecutar el Proyecto
 <ol>
   <li>
-    Inicia la aplicación:
+    Inicia la aplicación:<br/>
     ```bash
     npm start
   </li>
