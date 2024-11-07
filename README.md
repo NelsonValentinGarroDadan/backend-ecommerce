@@ -79,12 +79,12 @@ Este proyecto utiliza dotenv para cargar las variables de entorno en los diferen
   <li>
     <h3>Inicia la aplicación:</h3>
     ```bash
-      npm start
+     npm start
   </li>
   <li>
-    La aplicación debería estar en ejecución en localhost:<PUERTO> (cambiar <PUERTO> por el puerto configurado en tu servidor).
+    <h3>La aplicación debería estar en ejecución en localhost:PUERTO (cambiar PUERTO por el puerto configurado en tu servidor).</h3>
   </li>
   <li>
-    Asegúrate de que todas las configuraciones y variables de entorno sean correctas antes de ejecutar el proyecto para evitar problemas de conexión y autenticación.
+    <h3>Asegúrate de que todas las configuraciones y variables de entorno sean correctas antes de ejecutar el proyecto para evitar problemas de conexión y autenticación.</h3>
   </li>
 </ol>
