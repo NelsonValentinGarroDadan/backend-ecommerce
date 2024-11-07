@@ -12,8 +12,8 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
   <li>
     <h3>Clona el repositorio:</h3>
      <pre>
-      <code>git clone https://github.com/NelsonValentinGarroDadan/backend-ecommerce.git</code>
-      <code>cd backend-ecommerce</code>
+      <code>git clone https://github.com/NelsonValentinGarroDadan/backend-ecommerce.git<br>
+      cd backend-ecommerce</code>
       </pre>>
       
   </li>
