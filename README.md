@@ -78,8 +78,7 @@ Este proyecto utiliza dotenv para cargar las variables de entorno en los diferen
 <ol>
   <li>
     <h3>Inicia la aplicación:</h3>
-    ```bash
-     npm start
+    <pre><code>npm start</code></pre>
   </li>
   <li>
     <h3>La aplicación debería estar en ejecución en localhost:PUERTO (cambiar PUERTO por el puerto configurado en tu servidor).</h3>
