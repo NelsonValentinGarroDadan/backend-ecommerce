@@ -11,9 +11,13 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
 <ol>
   <li>
     <h3>Clona el repositorio:</h3>
-     ```bash
+     <pre>
+      <code>
       git clone <URL_DEL_REPOSITORIO>
       cd <NOMBRE_DEL_PROYECTO>
+      </code>
+     </pre>>
+      
   </li>
   <li>
     <h3>Instala las dependencias:</h3>
