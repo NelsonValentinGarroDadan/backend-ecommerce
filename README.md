@@ -17,18 +17,18 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
 npm install
 
 3. Crea un archivo de variables de entorno: Crea un archivo .env.development en la raíz del proyecto con las siguientes variables de entorno:
-# Configuración de Auth0
+### Configuración de Auth0
 AUTH0_SECRET=your_auth0_secret
 AUTH0_AUDIENCE=your_auth0_audience
 AUTH0_CLIENT_ID=your_auth0_client_id
 AUTH0_BASE_URL=https://yourdomain.auth0.com
 
-# Configuración de Cloudinary
+### Configuración de Cloudinary
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
-# Configuración de PostgreSQL
+### Configuración de PostgreSQL
 DB_NAME=your_database_name
 DB_HOST=localhost # O el host de tu base de datos
 DB_PORT=5432 # Cambiar si es necesario
