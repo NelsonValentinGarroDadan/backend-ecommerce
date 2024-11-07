@@ -29,11 +29,11 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ### Configuración de PostgreSQL
-DB_NAME=your_database_name
-DB_HOST=localhost # O el host de tu base de datos
-DB_PORT=5432 # Cambiar si es necesario
-DB_USERNAME=your_database_user
-DB_PASSWORD=your_database_password
+DB_NAME=your_database_name<br/>
+DB_HOST=localhost # O el host de tu base de datos<br/>
+DB_PORT=5432 # Cambiar si es necesario<br/>
+DB_USERNAME=your_database_user<br/>
+DB_PASSWORD=your_database_password<br/>
 4. Configura la base de datos PostgreSQL.
 Asegúrate de que la base de datos esté creada y accesible con las credenciales indicadas en el archivo .env.development.
 ## Configuración
