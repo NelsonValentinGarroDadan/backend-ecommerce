@@ -19,18 +19,18 @@ npm install
 3. Crea un archivo de variables de entorno: Crea un archivo .env.development en la raíz del proyecto con las siguientes variables de entorno:
 <ul>  
 
-  ### Configuración de Auth0
+  <h3>Configuración de Auth0</h3> 
   <li>AUTH0_SECRET=your_auth0_secret</li>
   <li>AUTH0_AUDIENCE=your_auth0_audience</li>
   <li>AUTH0_CLIENT_ID=your_auth0_client_id</li>
   <li>AUTH0_BASE_URL=https://yourdomain.auth0.com</li>
 
-  ### Configuración de Cloudinary
+  <h3>Configuración de Cloudinary</h3>
   <li>CLOUDINARY_CLOUD_NAME=your_cloud_name</li>
   <li>CLOUDINARY_API_KEY=your_cloudinary_api_key</li>
   <li>CLOUDINARY_API_SECRET=your_cloudinary_api_secret</li>
-  
-  ### Configuración de PostgreSQL
+
+  <h3>Configuración de PostgreSQL</h3> 
   <li>DB_NAME=your_database_name</li>
   <li>DB_HOST=localhost # O el host de tu base de datos</li>
   <li>DB_PORT=5432 # Cambiar si es necesario</li>
