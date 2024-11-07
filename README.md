@@ -20,7 +20,7 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
     
   </li>
   <li>
-    <h3>Crea un archivo de variables de entorno: Crea un archivo .env.development en la raíz del proyecto con las siguientes variables de entorno:</h3>
+    <h3><b>Crea un archivo de variables de entorno:</b> Crea un archivo .env en la raíz del proyecto con las siguientes variables de entorno:</h3>
     <ul>  
       <li>
         <ul>

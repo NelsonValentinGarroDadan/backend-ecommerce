@@ -1,7 +1,7 @@
 import { v2 as cloudinary } from 'cloudinary';
 import {config as dotenvconfig } from 'dotenv' ;
 
-dotenvconfig({path: '.env.development'});
+dotenvconfig({path: '.env'});
 
 export const CloudinaryConfig = {
     provide: 'CLOUDINARY',
