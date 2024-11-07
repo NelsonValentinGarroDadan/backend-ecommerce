@@ -17,23 +17,27 @@ Este proyecto utiliza autenticación con Auth0, gestión de archivos con Cloudin
 npm install
 
 3. Crea un archivo de variables de entorno: Crea un archivo .env.development en la raíz del proyecto con las siguientes variables de entorno:
-### Configuración de Auth0
-AUTH0_SECRET=your_auth0_secret
-AUTH0_AUDIENCE=your_auth0_audience
-AUTH0_CLIENT_ID=your_auth0_client_id
-AUTH0_BASE_URL=https://yourdomain.auth0.com
+<ul>  
 
-### Configuración de Cloudinary
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+  ### Configuración de Auth0
+  <li>AUTH0_SECRET=your_auth0_secret</li>
+  <li>AUTH0_AUDIENCE=your_auth0_audience</li>
+  <li>AUTH0_CLIENT_ID=your_auth0_client_id</li>
+  <li>AUTH0_BASE_URL=https://yourdomain.auth0.com</li>
 
-### Configuración de PostgreSQL
-DB_NAME=your_database_name<br/>
-DB_HOST=localhost # O el host de tu base de datos<br/>
-DB_PORT=5432 # Cambiar si es necesario<br/>
-DB_USERNAME=your_database_user<br/>
-DB_PASSWORD=your_database_password<br/>
+  ### Configuración de Cloudinary
+  <li>CLOUDINARY_CLOUD_NAME=your_cloud_name</li>
+  <li>CLOUDINARY_API_KEY=your_cloudinary_api_key</li>
+  <li>CLOUDINARY_API_SECRET=your_cloudinary_api_secret</li>
+  
+  ### Configuración de PostgreSQL
+  <li>DB_NAME=your_database_name</li>
+  <li>DB_HOST=localhost # O el host de tu base de datos</li>
+  <li>DB_PORT=5432 # Cambiar si es necesario</li>
+  <li>DB_USERNAME=your_database_user</li>
+  <li>DB_PASSWORD=your_database_password</li>
+</ul>
+
 4. Configura la base de datos PostgreSQL.
 Asegúrate de que la base de datos esté creada y accesible con las credenciales indicadas en el archivo .env.development.
 ## Configuración
