@@ -1,6 +1,6 @@
 # 🛍️ **Gestor de e-commerce | Backend** 🛒  
 
-Este es el backend de un gestor de eCommerce, diseñado para gestionar compras de un solo producto. Utiliza **NestJS** con **TypeScript** para el desarrollo y se conecta a **PostgreSQL**. Además, la autenticación de usuarios está gestionada mediante **Auth0** y el almacenamiento de imágenes se realiza con **Cloudinary**.  
+Este es el backend de un gestor de e-commerce, diseñado para gestionar compras de un solo producto. Utiliza **NestJS** con **TypeScript** para el desarrollo y se conecta a **PostgreSQL**. Además, la autenticación de usuarios está gestionada mediante **Auth0** y el almacenamiento de imágenes se realiza con **Cloudinary**.  
 
 ### 🔗 **[Ver el proyecto en vivo aquí](https://ecommerce-peh6.onrender.com)**  
 ### 📚 **[Documentación de la API con Swagger](https://ecommerce-peh6.onrender.com/api)**  
